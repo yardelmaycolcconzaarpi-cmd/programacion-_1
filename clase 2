@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int area,base,altura;
+
+    cout << "Ingresa la base triangulo : ";
+    cin >> base;
+
+    f = (base*altura)/2;
+    
+    cout << "La area es : " << area << endl;
+
+    return 0;
+}
