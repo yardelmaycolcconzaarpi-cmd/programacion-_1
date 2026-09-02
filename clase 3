@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    float f,c;
+
+    cout << "Ingresa grados celsius : ";
+    cin >> c;
+
+    f = (c*1.8) + 32;
+    
+    cout << "la conversion es  : " << f << endl;
+
+    return 0;
+}   
